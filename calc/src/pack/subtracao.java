@@ -1,7 +1,7 @@
 package pack;
 
 public class subtracao {
-    public float subtrair(float x, float y) {
+    public int subtrair(int x, int y) {
         return x - y;
     }
 }

@@ -1,7 +1,7 @@
 package pack;
 
 public class divisao {
-	public float dividir(float a, float b) {
+	public int dividir(int a, int b) {
         if (b != 0) {
             return a / b;
         }

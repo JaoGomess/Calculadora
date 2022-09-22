@@ -1,7 +1,7 @@
 package pack;
 
 public class soma {
-    public float somar(float x, float b) {
+    public int somar(int x, int b) {
         return x + b;
     }
 }
